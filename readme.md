@@ -1,0 +1,5 @@
+This application leverages the power of machine learning to detect and recognize American Sign Language (ASL) in real-time. It’s capable of converting these signs into alphabets, and subsequently, into sentences. The app provides an intuitive interface for users to communicate effectively using sign language. Not stopping at just visual representation, the app also includes text-to-speech functionality. With a simple click of the ‘Speak’ button, the app vocalizes the created sentences, making communication more accessible and seamless.
+
+Max Pooling Algorithm
+
+The app utilizes various algorithms, one of which is the Max Pooling operation used in the convolutional neural network model. Max Pooling is a down-sampling operation that helps to extract dominant features from the input while reducing its dimensionality. It works by scanning the input with a window (of a defined size) and selecting the maximum value within that window. This process helps to make the model more robust to variations and reduces computational cost by decreasing the number of parameters to learn, all while maintaining the essential features needed for accurate ASL recognition.
