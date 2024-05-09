@@ -15,9 +15,10 @@ GestoSpeak uses various algorithms to make the project work for e.g.
 ### Dependencies
 
 Language - **Python 3.11**
+
 IDE Used - **VS Code**
 
-#### Libraries
+### Libraries
 
 To install the libraries used just run the Libraries.bat file given as admin
 
