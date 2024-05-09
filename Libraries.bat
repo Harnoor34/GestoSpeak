@@ -1,0 +1,1 @@
+pip install cvzone threading numpy opencv-python pyenchant pyttsx3 tensorflow customtkinter
