@@ -46,3 +46,5 @@ Running GestoSpeak is a Very simple task. To run just
 ### Video Explaination
 
   https://github.com/Harnoor34/GestoSpeak/assets/65222131/3eba9c0f-bdab-428b-83c1-340b5dcbb3f9
+
+**Note** - The Dataset Used Will Be Added in a Full Release version so please use the pretrained model for now
