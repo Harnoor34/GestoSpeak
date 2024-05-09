@@ -8,7 +8,7 @@ from time import sleep
 from numpy import argmax,array
 from math import sqrt
 from cv2 import flip,VideoCapture,cvtColor, line, imread, circle,destroyAllWindows,COLOR_BGR2RGB,CAP_PROP_FRAME_WIDTH,CAP_PROP_FRAME_HEIGHT
-from os import environ, path, getcwd
+from os import environ
 environ['TF_ENABLE_ONEDNN_OPTS'] = '0'
 from traceback import format_exc
 from pyttsx3 import init
@@ -28,10 +28,6 @@ class Application:
     def __init__(self):
         self.vs = VideoStream(src=0).start()
         self.current_image = None
-        cwd = getcwd()
-        self.path = path.join(cwd, "GestoSpeak")
-        print(self.path)
-        return self.path
         self.model = load_model(fr"C:\Users\Harnoor\Documents\LOL\models\final_model.h5")
 
         self.prev_char=""
