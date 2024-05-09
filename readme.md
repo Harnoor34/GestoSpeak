@@ -29,15 +29,15 @@ Running GestoSpeak is a Very simple task. To run just
 2. After Running the Application It Starts Detecting the Hand signs automatically
 3. Do Some Gestures To Find If It Is Working
 4. For Space, Next And Backspace use -
-#### Space
+### Space
 
 ![image](https://github.com/Harnoor34/GestoSpeak/assets/65222131/57ad6a39-9e01-4d99-8bb7-133d35177111)
 
-#### Next
+### Next
 
 ![image](https://github.com/Harnoor34/GestoSpeak/assets/65222131/fe786586-2e49-4f29-aef3-1c1f339852d5)
 
-#### Backspace
+### Backspace
 
 ![image](https://github.com/Harnoor34/GestoSpeak/assets/65222131/126317d4-5426-4867-ad6e-dc46dd3013cd)
    
